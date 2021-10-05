@@ -1,0 +1,45 @@
+.img-esponsive-16by9{
+    display: block;
+    height: 0;
+    padding-bottom: 56.25%;
+    overflow: hidden;
+}
+
+.main_properties_item{
+    h2{
+        font-size: 1.3em;
+        margin-top: 10px;
+        
+        a{
+            text-decoration: none;
+            &:hover{
+                color: #f25;
+            }
+        }
+    }
+
+    .main_properties_item_category{
+        margin-bottom: 0px;
+    }
+
+    .main_properties_item_type{
+        font-size: 0.875em;
+        color: #666;
+    }
+
+    .main_properties_item_price{
+        font-size: 1.5em;
+        font-weight: bold;
+    }
+
+    .main_properties_item_featured{
+        img{
+            max-width: 40px;
+        }
+
+        p{
+            font-size: 0.875em;
+            margin-bottom: 0;
+        }
+    }
+}

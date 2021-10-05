@@ -1,0 +1,27 @@
+.main_footer h1 {
+  font-size: 1.4em;
+  border-bottom: 1px solid #ccc;
+}
+
+.main_footer ul {
+  padding-left: 0;
+}
+
+.main_footer ul li {
+  list-style: none;
+  margin-bottom: 4px;
+}
+
+.main_footer ul a {
+  color: #666;
+}
+
+.main_copyright_address {
+  font-size: 0.875em;
+  color: #fff;
+}
+
+.main_copyright_copy {
+  font-size: 0.875em;
+  color: #fff;
+}
