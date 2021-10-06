@@ -5,12 +5,12 @@
 O Projeto Site imobiliária foi feito com os melhores padrões de desenvolvimento web usando responsividade e feito estrategicamente para a conversão de clientes para a locação e vendas de imóveis.
 
 ## Layout mobile
-![Mobile_1](https://github.com/alison-dev/wdpshoes/blob/master/mobile1/2021-09-27%20(8).png) ![Mobile_2](https://github.com/alison-dev/wdpshoes/blob/master/mobile2/2021-09-27%20(10).png)
+![Mobile_1](https://github.com/alison-dev/projeto_imobiliaria/blob/master/mobileimage1/mobileimage1.png) ![Mobile_2](https://github.com/alison-dev/projeto_imobiliaria/blob/master/mobileimage2/mobileimage2.png)
 
 ## Layout web
-![Web_1](https://github.com/alison-dev/wdpshoes/blob/master/web1/2021-09-27.png)
+![Web_1](https://github.com/alison-dev/projeto_imobiliaria/blob/master/webimage1/webimage1.png)
 
-![Web_2](https://github.com/alison-dev/wdpshoes/blob/master/web2/2021-09-27%20(2).png)
+![Web_2](https://github.com/alison-dev/projeto_imobiliaria/blob/master/webimage2/webimage2.png)
 
 
 # Tecnologias utilizadas
